@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/DivineUgorji/testimonials-grid-section-main)
+- Live Site URL: [Live site on Netlify](https://your-live-site-url.com)
 
 ## My process
 
@@ -42,8 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Divine Ugorji](https://www.your-site.com)
 - Frontend Mentor - [DivineUgorji](https://www.frontendmentor.io/profile/DivineUgorji)
-- Twitter - [@yourusername](https://www.twitter.com/divine__ugorji)
+- Twitter - [@Divine\_\_Ugorji](https://www.twitter.com/divine__ugorji)
 
 ## Acknowledgments
